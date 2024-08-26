@@ -5,7 +5,16 @@
     <classes>
       <class name="homePage.myTestcases">
         <methods>
+          <include name="CheckQitagLogo"/>
+          <include name="RandomlyChangeTheLanguage"/>
+          <include name="ExpectedDefaultLange"/>
+          <include name="FillHotelTab"/>
+          <include name="RandomlySelectTheNumberOfVistor"/>
+          <include name="CheckdefaultCurrency"/>
           <include name="CheckDepatureDate"/>
+          <include name="CheckThePageFullyLoaded"/>
+          <include name="TestHotelTabIsNotSelected"/>
+          <include name="CheckContactNumber"/>
           <include name="myTest"/>
         </methods>
       </class> <!-- homePage.myTestcases -->
